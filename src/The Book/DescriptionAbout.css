@@ -1,0 +1,123 @@
+.description-d-about {
+  margin-top: -152px;
+  margin-left: -8px;
+  width: 1349px;
+  height: 252px;
+}
+
+.star-about-1 {
+  position: absolute;
+  width: 30px;
+  margin-top: 190px;
+  margin-left: 278px;
+}
+
+.star-about-2 {
+  position: absolute;
+  width: 30px;
+  margin-top: 190px;
+  margin-left: 306px;
+}
+
+.star-about-3 {
+  position: absolute;
+  width: 30px;
+  margin-top: 190px;
+  margin-left: 334px;
+}
+
+.star-about-4 {
+  position: absolute;
+  width: 30px;
+  margin-top: 190px;
+  margin-left: 362px;
+}
+
+.star-about-5 {
+  position: absolute;
+  width: 30px;
+  margin-top: 190px;
+  margin-left: 390px;
+}
+
+.text-desc-about {
+  font-size: 24px;
+  font-family: "Oswald", sans-serif;
+  margin-left: 83px;
+  margin-top: 230px;
+  position: absolute;
+}
+
+.tex-desc2-about {
+  font-size: 14px;
+  font-family: "Oswald", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1.9px;
+  font-weight: 600;
+  margin-left: 278px;
+  margin-top: 474px;
+  position: absolute;
+}
+
+.small-desc-about {
+  font-size: 11.9px;
+  font-family: "Oswald", sans-serif;
+  font-weight: 400;
+  margin-left: 326px;
+  margin-top: 493px;
+  position: absolute;
+}
+
+.star-about-6 {
+  position: absolute;
+  width: 30px;
+  margin-top: 190px;
+  margin-left: 919px;
+}
+
+.star-about-7 {
+  position: absolute;
+  width: 30px;
+  margin-top: 190px;
+  margin-left: 947px;
+}
+
+.star-about-8 {
+  position: absolute;
+  width: 30px;
+  margin-top: 190px;
+  margin-left: 975px;
+}
+
+.star-about-9 {
+  position: absolute;
+  width: 30px;
+  margin-top: 190px;
+  margin-left: 1003px;
+}
+
+.star-about-10 {
+  position: absolute;
+  width: 30px;
+  margin-top: 190px;
+  margin-left: 1031px;
+}
+
+.t-desc3-about {
+  font-size: 24px;
+  font-family: "Oswald", sans-serif;
+  margin-left: 730px;
+  margin-top: 230px;
+  position: absolute;
+}
+
+.small-te-about {
+  font-size: 14px;
+  font-family: "Oswald", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1.9px;
+  font-weight: 600;
+  margin-left: 935px;
+  margin-top: 500px;
+  position: absolute;
+}

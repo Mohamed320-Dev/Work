@@ -1,0 +1,38 @@
+.name-of-personne {
+  font-size: 46px;
+  color: #00b4ff;
+  font-family: "Oswald", sans-serif;
+  margin-top: 120px;
+  margin-left: 100px;
+}
+
+.p-1-personne {
+  font-size: 18px;
+  font-family: "Open sans", sans-serif;
+  margin-left: 100px;
+  margin-top: -27px;
+}
+
+.p-2-personne {
+  font-size: 18px;
+  font-family: "Open sans", sans-serif;
+  margin-left: 100px;
+  margin-top: 44px;
+}
+
+.b-about-personne {
+  outline-color: #00b4ff;
+  color: white;
+  border: none;
+  font-size: 15px;
+  font-family: "Oswald", sans-serif;
+  width: 193px;
+  margin-left: 187px;
+}
+
+.slide-1-personne {
+  width: 640px;
+  height: 549px;
+  margin-left: 614px;
+  margin-top: -525px;
+}

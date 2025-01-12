@@ -1,0 +1,46 @@
+.d-footer-section {
+  background-image: url(./images/Footer-image.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 582px;
+  margin-left: -10px;
+  width: 1351px;
+}
+
+.text-footer-part {
+  position: absolute;
+  font-size: 46px;
+  font-family: "Oswald", sans-serif;
+  color: #00b4ff;
+  margin-left: 700px;
+  margin-top: 124px;
+  line-height: 1.2;
+}
+
+.paragraph-footer-part {
+  position: absolute;
+  color: white;
+  font-size: 18px;
+  font-family: "Open sans", sans-serif;
+  margin-left: 696px;
+  margin-top: 260px;
+  line-height: 1.7;
+}
+
+.b-footer-part {
+  padding-top: 6px;
+  font-size: 10px;
+  background-color: #00b4ff;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+  height: 45px;
+  position: absolute;
+  margin-left: 864px;
+  margin-top: 386px;
+  width: 195px;
+  font-size: 15px;
+  font-family: "Oswald", sans-serif;
+}

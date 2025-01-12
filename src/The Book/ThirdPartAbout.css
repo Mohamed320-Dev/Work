@@ -1,0 +1,31 @@
+.third-d-about {
+  margin-top: 205px;
+  margin-left: -8px;
+  width: 1349px;
+  height: 200px;
+}
+
+.title-text-about {
+  position: absolute;
+  font-size: 46px;
+  font-family: "Oswald", sans-serif;
+  color: #00b4ff;
+  margin-left: 425px;
+  margin-top: 45px;
+}
+
+.img-personnes-about {
+  width: 560px;
+  margin-top: 150px;
+  margin-left: 83px;
+}
+
+.text-body-about {
+  font-size: 18px;
+  font-family: "Open sans", sans-serif;
+  margin-left: 700px;
+  margin-top: -320px;
+  font-weight: 400px;
+  line-height: 30px;
+  opacity: 0.9;
+}

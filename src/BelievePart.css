@@ -1,0 +1,75 @@
+.d-believe-part {
+  background-color: #021f3e;
+  margin-top: 100px;
+  margin-left: -8px;
+  width: 1349px;
+  height: 535px;
+}
+
+.star-icon-1 {
+  position: absolute;
+  width: 30px;
+  margin-top: 100px;
+  margin-left: 593px;
+}
+
+.star-icon-2 {
+  position: absolute;
+  width: 30px;
+  margin-top: 100px;
+  margin-left: 621px;
+}
+
+.star-icon-3 {
+  position: absolute;
+  width: 30px;
+  margin-top: 100px;
+  margin-left: 649px;
+}
+
+.star-icon-4 {
+  position: absolute;
+  width: 30px;
+  margin-top: 100px;
+  margin-left: 677px;
+}
+
+.star-icon-5 {
+  position: absolute;
+  width: 30px;
+  margin-top: 100px;
+  margin-left: 705px;
+}
+
+.text-description {
+  position: absolute;
+  font-size: 24px;
+  font-family: "Oswald", sans-serif;
+  color: white;
+  margin-top: 145px;
+  margin-left: 292px;
+}
+
+.t-description {
+  position: absolute;
+  font-size: 14px;
+  font-family: "Oswald", sans-serif;
+  color: white;
+  margin-top: 325px;
+  margin-left: 604px;
+}
+
+.des-text-bel {
+  position: absolute;
+  font-size: 11.9px;
+  font-family: "Oswald", sans-serif;
+  margin-top: 343px;
+  margin-left: 481px;
+  color: white;
+}
+
+.qunn-icon {
+  width: 158px;
+  margin-top: 384px;
+  margin-left: 585px;
+}

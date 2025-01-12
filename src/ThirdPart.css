@@ -1,0 +1,118 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;700&display=swap");
+
+.d-third-part {
+  position: relative;
+  margin: 0;
+  width: 1349px;
+  height: 580px; /* Matches your provided dimensions */
+  margin-top: 399px; /* Same top margin */
+  margin-left: -8px; /* Align with the body offset */
+}
+
+.d-third-part::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url(images/audience.jpg); /* Your desired background */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  z-index: -1; /* Keeps it behind the content */
+  opacity: 0.19; /* Adjust the background image opacity */
+}
+
+.d-third-part::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Add an overlay for effect */
+  z-index: -1; /* Keeps it behind the content */
+  opacity: 0.19; /* Adjust the overlay opacity */
+}
+
+/* body {
+  background-color: rgb(112, 112, 116);
+} */
+
+.personne-img {
+  position: absolute;
+  width: 396px;
+  height: 620px;
+  margin-top: -40px;
+  margin-left: 100px;
+}
+
+.text-c {
+  position: absolute;
+  margin-top: 184px;
+  margin-left: 618px;
+  font-size: 24px;
+  font-family: "Oswald", Sans-serif;
+  line-height: 36px;
+}
+
+.icon-star1 {
+  position: absolute;
+  width: 30px;
+  margin-top: 140px;
+  margin-left: 945px;
+}
+
+.icon-star2 {
+  position: absolute;
+  width: 30px;
+  margin-top: 140px;
+  margin-left: 917px;
+}
+
+.icon-star3 {
+  position: absolute;
+  width: 30px;
+  margin-top: 140px;
+  margin-left: 889px;
+}
+
+.icon-star4 {
+  position: absolute;
+  width: 30px;
+  margin-top: 140px;
+  margin-left: 861px;
+}
+
+.icon-star5 {
+  position: absolute;
+  width: 30px;
+  margin-top: 140px;
+  margin-left: 833px;
+}
+
+.text-name {
+  font-family: "Oswald", Sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1.9px;
+  position: absolute;
+  margin-top: 375px;
+  margin-left: 825px;
+}
+
+.text-work {
+  font-family: "Oswald", Sans-serif;
+  position: absolute;
+  margin-top: 395px;
+  margin-left: 830px;
+  font-size: 11.9px;
+  color: #0d0d0d;
+}
+
+.logo-small {
+  margin-top: 445px;
+  margin-left: 825px;
+  width: 150px;
+}

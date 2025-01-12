@@ -1,0 +1,128 @@
+.d-section {
+  height: 400px;
+  margin-left: -8px;
+  width: 1349px;
+}
+
+.element-btn {
+  width: 186px;
+  background-color: #00b4ff;
+  padding: 13px;
+  margin-left: 552px;
+  height: 27px;
+  padding-top: 17px;
+  margin-top: 85px;
+}
+
+.element-btn:hover {
+  background-color: #021f3e;
+}
+
+.element-btn a {
+  text-decoration: none;
+}
+
+.text-element {
+  color: white;
+  font-size: 15px;
+  font-family: "Oswald", sans-serif;
+  margin-left: 29px;
+  font-weight: 500;
+}
+
+.d-numbers {
+  display: flex;
+  background-color: #cdcdcd30;
+  margin-top: 78px;
+  height: 235px;
+}
+
+.div-first-part {
+  margin-top: -78px;
+}
+
+.div-second-part {
+  margin-left: 375px;
+  margin-top: -75px;
+}
+
+.first-text-number {
+  position: absolute;
+  font-size: 24px;
+  font-family: "Oswald", sans-serif;
+  color: #00b4ff;
+  margin-left: 138px;
+  margin-top: 131px;
+}
+
+.number-d-1 {
+  position: absolute;
+  font-size: 68px;
+  color: #021f3e;
+  font-family: "Oswald", sans-serif;
+  margin-top: 178px;
+  margin-left: 192px;
+}
+
+.icon-d-1 {
+  position: absolute;
+  font-size: 68px;
+  color: #021f3e;
+  font-family: "Oswald", sans-serif;
+  margin-top: 176px;
+  margin-left: 276px;
+}
+
+.second-text-number {
+  font-size: 24px;
+  font-family: "Oswald", sans-serif;
+  color: #00b4ff;
+  margin-left: 493px;
+  margin-top: 53px;
+}
+
+.number-d-2 {
+  position: absolute;
+  font-size: 68px;
+  color: #021f3e;
+  font-family: "Oswald", sans-serif;
+  margin-top: -5px;
+  margin-left: 595px;
+}
+
+.icon-d-2 {
+  position: absolute;
+  font-size: 68px;
+  color: #021f3e;
+  font-family: "Oswald", sans-serif;
+  margin-top: -6px;
+  margin-left: 717px;
+}
+
+.third-text-number {
+  position: absolute;
+  font-size: 24px;
+  font-family: "Oswald", sans-serif;
+  color: #00b4ff;
+  margin-left: 117px;
+  margin-top: 131px;
+  margin-top: 53px;
+}
+
+.number-d-3 {
+  position: absolute;
+  font-size: 68px;
+  color: #021f3e;
+  font-family: "Oswald", sans-serif;
+  margin-top: 100px;
+  margin-left: 183px;
+}
+
+.icon-d-3 {
+  position: absolute;
+  font-size: 68px;
+  color: #021f3e;
+  font-family: "Oswald", sans-serif;
+  margin-top: 98px;
+  margin-left: 263px;
+}

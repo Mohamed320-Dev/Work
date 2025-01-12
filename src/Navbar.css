@@ -1,0 +1,262 @@
+.app-container {
+  position: relative;
+  margin: 0;
+  height: 100vh;
+  margin-top: -8px;
+  margin-left: -8px;
+  width: 1349px;
+}
+
+.app-container::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url(images/bg-first-d.jpg); /* Replace with your image path */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  z-index: -1; /* Ensure it stays behind content */
+}
+
+.app-container::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7); /* Dark overlay with opacity */
+  z-index: -1; /* Ensure it stays behind content */
+}
+
+a .logo {
+  width: 165px;
+  height: 130px;
+  margin-left: 25px;
+  cursor: pointer;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.ul-content {
+  list-style: none;
+  padding: 0;
+  font-family: sans-serif;
+  font-weight: 600;
+  margin-top: 43px;
+  margin-right: 230px;
+  margin-left: 460px;
+}
+
+.ul-content li {
+  display: inline-block;
+  margin: 0 10px;
+  font-size: 16px;
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+.ul-content li a {
+  text-decoration: none;
+  color: white;
+}
+
+.ul-content li a:hover {
+  color: #00b4ff;
+}
+
+.drop-do a {
+  text-decoration: none;
+  color: white;
+  margin-right: 5px;
+}
+
+.drop-do a:hover {
+  color: #00b4ff;
+}
+
+.book-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 10px;
+  background-color: #00b4ff;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+  height: 45px;
+  position: absolute;
+  margin-left: 1145px;
+  margin-top: 29px;
+}
+
+.book-button:hover {
+  background-color: #021f3e;
+}
+
+.drop-down {
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  margin-top: 2px;
+  margin-left: 4px;
+  color: white; /* Default color */
+}
+
+.drop-down.clicked {
+  color: blue; /* Change color on click */
+}
+
+.choose-speak {
+  display: flex;
+  position: absolute;
+  width: 253px;
+  height: 80px;
+  background-color: white;
+  margin-left: 0px;
+  margin-top: 13px;
+  border-radius: 5px;
+}
+
+.ch1-paragraph {
+  position: absolute;
+  width: 253px;
+  height: 40px;
+  margin-top: 0px;
+  font-size: 13px;
+  margin-left: 0px;
+  font-weight: 600;
+  opacity: 0.8;
+  font-family: sans-serif;
+  border-radius: 5px;
+}
+
+.ch1-paragraph:hover {
+  background-color: #00b4ff;
+  color: white;
+}
+
+.choose1 {
+  margin-left: 22px;
+}
+
+.ch2-paragraph {
+  width: 253px;
+  height: 40px;
+  font-family: sans-serif;
+  font-size: 13px;
+  margin-left: 0px;
+  font-weight: 600;
+  opacity: 0.8;
+  margin-top: 40px;
+  border-radius: 5px;
+}
+
+.ch2-paragraph:hover {
+  background-color: #00b4ff;
+  color: white;
+}
+
+.choose2 {
+  margin-left: 14px;
+}
+
+.menu {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  margin-left: 1270px;
+  margin-top: 26px;
+}
+
+.first-text-body {
+  color: white;
+  position: absolute;
+  margin-top: 25px;
+  margin-left: 85px;
+  width: 1000px;
+  font-size: 52.42px;
+  font-family: "Oswald", sans-serif;
+  line-height: 4.2rem;
+}
+
+.change-text {
+  color: #00b4ff;
+  transition: opacity 0.5s ease-in-out; /* Smooth transition for changing text */
+}
+
+.fade-in {
+  animation: fadeIn 0.5s forwards;
+}
+
+/* Fade-out animation */
+.fade-out {
+  animation: fadeOut 0.5s forwards;
+}
+
+/* Fade-in keyframes */
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+/* Fade-out keyframes */
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.btn-1 {
+  /* position: absolute;
+  margin-left: 85px;
+  font-size: 13px;
+  font-weight: 700;
+  height: 50px;
+  margin-top: 370px; */
+
+  position: absolute;
+  margin-left: 125px;
+  font-size: 13px;
+  font-weight: 700;
+  height: 50px;
+  margin-top: 275px;
+}
+
+.btn-2 {
+  position: absolute;
+  margin-left: 355px;
+  font-size: 13px;
+  font-weight: 700;
+  height: 50px;
+  margin-top: 275px;
+}
+
+.paragraph-bet {
+  position: absolute;
+  color: white;
+  margin-left: 287px;
+  margin-top: 375px;
+  font-family: sans-serif;
+  font-weight: 600;
+}
+
+.featured-img {
+  width: 510px;
+  height: 45px;
+  margin-top: 410px;
+  margin-left: 115px;
+}

@@ -1,0 +1,194 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap");
+
+.d-fourth-part {
+  margin-left: -8px;
+  width: 1349px;
+  height: 969px;
+  margin-top: -16px;
+}
+
+.element-text {
+  position: absolute;
+  font-family: "Open sans", sans-serif;
+  margin-left: 532px;
+  font-size: 18px;
+  margin-top: 90px;
+  color: #0d0d0d;
+}
+
+.h2-text {
+  position: absolute;
+  font-size: 46px;
+  font-family: "Oswald", sans-serif;
+  margin-left: 332px;
+  margin-top: 115px;
+  color: #00b4ff;
+}
+
+.ul-content-fourth {
+  position: absolute;
+  display: flex;
+}
+
+.ul-content-fourth li {
+  list-style: none;
+}
+
+.icon-checked-1 {
+  width: 30px;
+  margin-top: 185px;
+  margin-left: 385px;
+}
+
+.text-icon-1 {
+  position: absolute;
+  font-size: 18px;
+  font-family: "Open sans", sans-serif;
+  margin-left: 11px;
+  width: 408px;
+  margin-top: 186px;
+  color: #0d0d0d;
+}
+
+.icon-checked-2 {
+  width: 30px;
+  margin-top: 235px;
+  margin-left: -31px;
+}
+
+.text-icon-2 {
+  position: absolute;
+  font-size: 18px;
+  font-family: "Open sans", sans-serif;
+  margin-left: 11px;
+  width: 429px;
+  margin-top: 235px;
+  color: #0d0d0d;
+}
+
+.icon-checked-3 {
+  width: 30px;
+  margin-top: 285px;
+  margin-left: -31px;
+}
+
+.text-icon-3 {
+  position: absolute;
+  font-size: 18px;
+  font-family: "Open sans", sans-serif;
+  margin-left: 11px;
+  width: 429px;
+  margin-top: 284px;
+  color: #0d0d0d;
+}
+
+.icon-checked-4 {
+  width: 30px;
+  margin-top: 335px;
+  margin-left: -31px;
+}
+
+.text-icon-4 {
+  position: absolute;
+  font-size: 18px;
+  font-family: "Open sans", sans-serif;
+  margin-left: 11px;
+  width: 457px;
+  margin-top: 333px;
+  color: #0d0d0d;
+}
+
+.icon-checked-5 {
+  width: 30px;
+  margin-top: 385px;
+  margin-left: -32px;
+}
+
+.text-icon-5 {
+  position: absolute;
+  font-size: 18px;
+  font-family: "Open sans", sans-serif;
+  margin-left: 11px;
+  width: 485px;
+  margin-top: 382px;
+  color: #0d0d0d;
+}
+
+.img-1-personne {
+  position: absolute;
+  width: 560px;
+  height: 382px;
+  margin-top: 558px;
+  margin-left: 110px;
+}
+
+.element-opacity-1 {
+  margin-left: 110px;
+  background: linear-gradient(180deg, #0d0d0d00 30%, #0d0d0d 100%);
+  height: 159px;
+  width: 560px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  margin-top: 2417px;
+}
+
+.img-2-personne {
+  position: absolute;
+  margin-left: 693px;
+  width: 560px;
+  height: 382px;
+  margin-top: 558px;
+}
+
+.element-opacity-2 {
+  margin-left: 693px;
+  background: linear-gradient(180deg, #0d0d0d00 30%, #0d0d0d 100%);
+  height: 159px;
+  width: 560px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  margin-top: 2417px;
+}
+
+.text1-img {
+  color: white;
+  position: absolute;
+  margin-top: 844px;
+  margin-left: 117px;
+  width: 410px;
+  font-size: 44px;
+  font-family: "Oswald", sans-serif;
+  font-weight: 600;
+}
+
+.arrow-icon-1 {
+  position: absolute;
+  width: 36px;
+  margin-top: 859px;
+  margin-left: 525px;
+}
+
+.text2-img {
+  color: white;
+  position: absolute;
+  margin-top: 844px;
+  margin-left: 704px;
+  width: 410px;
+  font-size: 44px;
+  font-family: "Oswald", sans-serif;
+  font-weight: 600;
+}
+
+.arrow-icon-2 {
+  position: absolute;
+  width: 36px;
+  margin-top: 859px;
+  margin-left: 1109px;
+}
+
+.ul-img-content li {
+  list-style: none;
+}

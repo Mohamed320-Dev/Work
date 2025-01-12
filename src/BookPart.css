@@ -1,0 +1,74 @@
+/* Default image styles */
+.img-book {
+  width: 570px;
+  margin-top: 93px;
+  margin-left: 38px;
+  transform: translateX(-100%); /* Start off-screen */
+  opacity: 0; /* Hidden initially */
+  transition: transform 0.8s ease-out, opacity 0.8s ease-out;
+}
+
+/* Animated state */
+.img-book.animated-d {
+  transform: translateX(0); /* Slide into view */
+  opacity: 1; /* Fully visible */
+}
+
+.t-1 {
+  position: absolute;
+  color: #00b4ff;
+  font-size: 46px;
+  font-family: "Oswald", sans-serif;
+  margin-top: -508px;
+  line-height: 1.1;
+  margin-left: 646px;
+}
+
+.p-1 {
+  position: absolute;
+  font-size: 18px;
+  font-family: "Open Sans", sans-serif;
+  margin-top: -389px;
+  margin-left: 646px;
+  line-height: 1.5;
+}
+
+.b-1 {
+  position: absolute;
+  margin-left: 107px;
+  margin-top: 436px;
+  background-color: #00b4ff;
+  border: none;
+  width: 195px;
+  height: 44px;
+  color: white;
+  font-size: 15px;
+  font-family: "Oswald", sans-serif;
+}
+
+.b-1:hover {
+  background-color: #021f3e;
+}
+
+.b-2 {
+  position: absolute;
+  margin-left: 322px;
+  margin-top: 436px;
+  background-color: #00b4ff;
+  border: none;
+  width: 195px;
+  height: 44px;
+  color: white;
+  font-size: 15px;
+  font-family: "Oswald", sans-serif;
+}
+
+.b-2:hover {
+  background-color: #021f3e;
+}
+
+.t-description {
+  font-size: 14px;
+  font-family: "Oswald", sans-serif;
+  color: white;
+}
