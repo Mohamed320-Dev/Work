@@ -16,6 +16,7 @@ import SecondPartAbout from "./The Book/SecondPartAbout";
 import ThirdPartAbout from "./The Book/ThirdPartAbout";
 import FourthPartAbout from "./The Book/FourthPartAbout";
 import DescriptionAbout from "./The Book/DescriptionAbout";
+import LookInside from "./The Book/LookInside";
 
 export default function App() {
   return (
@@ -49,6 +50,7 @@ export default function App() {
               <ThirdPartAbout />
               <FourthPartAbout />
               <DescriptionAbout />
+              <LookInside />
             </>
           }
         />
