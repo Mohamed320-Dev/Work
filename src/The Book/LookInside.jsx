@@ -2,6 +2,28 @@ import React, { useEffect, useState } from "react";
 import "./LookInside.css";
 
 export default function LookInside() {
+  const [isAnimated, setIsAnimated] = useState(false);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      const element1 = document.querySelector(".text-1-cercle1-about");
+      const rect = element1.getBoundingClientRect();
+
+      const isVisible = rect.top < window.innerHeight && rect.bottom >= 0;
+
+      if (isVisible) {
+        setIsAnimated(true);
+      }
+    };
+
+    window.addEventListener("scroll", handleScroll);
+    handleScroll(); // Trigger on load in case the element is already visible
+
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, []);
+
   // const [scrollHeight, setScrollHeight] = useState(0);
 
   // const handleScroll = () => {
@@ -34,7 +56,14 @@ export default function LookInside() {
       </div>
       <div className="d-2-cercle1">
         <div className="d-c1-about"></div>
-        <h2 className="text-1-cercle1-about"> YOUR WHY IS YOUR SUPERPOWER</h2>
+        <h2
+          className={`text-1-cercle1-about ${
+            isAnimated ? "animated-text1-about" : ""
+          }`}
+        >
+          {" "}
+          YOUR WHY IS YOUR SUPERPOWER
+        </h2>
       </div>
       {/* // **** */}
       <div className="d-cercle-2-about">

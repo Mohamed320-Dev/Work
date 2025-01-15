@@ -43,6 +43,14 @@
   margin-left: 30px;
   margin-top: 14px;
   color: #021f3e;
+  transform: translateX(20%); /* Start off-screen */
+  opacity: 0; /* Hidden initially */
+  transition: transform 0.8s ease-out, opacity 0.8s ease-out;
+}
+
+.text-1-cercle1-about.animated-text1-about {
+  transform: translateX(0); /* Slide into view */
+  opacity: 1; /* Fully visible */
 }
 
 .d-2-cercle1 {
@@ -53,6 +61,7 @@
   height: 101px;
   display: flex;
   align-items: center;
+  transition: all 0.25s linear;
 }
 
 .d-c1-about {
@@ -63,6 +72,7 @@
   margin-left: -11px;
   margin-top: -41px;
   transform: rotate(45deg);
+  transition: all 0.25s linear;
 }
 
 /* *********** */

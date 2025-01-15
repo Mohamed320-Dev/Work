@@ -50,7 +50,7 @@ export default function App() {
               <ThirdPartAbout />
               <FourthPartAbout />
               <DescriptionAbout />
-              <LookInside />
+              {/* <LookInside /> */}
             </>
           }
         />
