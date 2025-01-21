@@ -43,7 +43,7 @@
   margin-left: 30px;
   margin-top: 14px;
   color: #021f3e;
-  transform: translateX(20%); /* Start off-screen */
+  transform: translateX(5%); /* Start off-screen */
   opacity: 0; /* Hidden initially */
   transition: transform 0.8s ease-out, opacity 0.8s ease-out;
 }
@@ -102,6 +102,14 @@
   margin-left: 30px;
   margin-top: 14px;
   color: #021f3e;
+  transform: translateX(-5%); /* Start off-screen */
+  opacity: 0; /* Hidden initially */
+  transition: transform 0.8s ease-out, opacity 0.8s ease-out;
+}
+
+.text-2-cercle2-about.animated-text2-about {
+  transform: translateX(0); /* Slide into view */
+  opacity: 1; /* Fully visible */
 }
 
 .d-3-cercle2 {
@@ -150,6 +158,14 @@
   margin-left: 30px;
   margin-top: 14px;
   color: #021f3e;
+  transform: translateX(5%); /* Start off-screen */
+  opacity: 0; /* Hidden initially */
+  transition: transform 0.8s ease-out, opacity 0.8s ease-out;
+}
+
+.text-3-cercle3-about.animated-text3-about {
+  transform: translateX(0); /* Slide into view */
+  opacity: 1; /* Fully visible */
 }
 
 .d-4-cercle3 {
@@ -199,6 +215,14 @@
   margin-left: 30px;
   margin-top: 14px;
   color: #021f3e;
+  transform: translateX(-5%); /* Start off-screen */
+  opacity: 0; /* Hidden initially */
+  transition: transform 0.8s ease-out, opacity 0.8s ease-out;
+}
+
+.text-4-cercle4-about.animated-text4-about {
+  transform: translateX(0); /* Slide into view */
+  opacity: 1; /* Fully visible */
 }
 
 .d-5-cercle4 {
@@ -521,5 +545,4 @@
   height: 1134px;
   position: absolute;
   margin-left: 212px;
-  /* transition: height 0.1s ease, background-color 0.3s ease; */
 }
