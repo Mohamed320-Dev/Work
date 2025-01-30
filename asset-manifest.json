@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/work/static/css/main.633d5913.css",
+    "main.js": "/work/static/js/main.a98e82cd.js",
+    "static/media/book.png": "/work/static/media/book.ea9168a00288c7438a01.png",
+    "static/media/Footer-image.jpg": "/work/static/media/Footer-image.e39345fa25880dda54f4.jpg",
+    "static/media/InterviewBW.png": "/work/static/media/InterviewBW.e45533509ae5a0cf0de7.png",
+    "static/media/personne.png": "/work/static/media/personne.82dc739540895deeae7b.png",
+    "static/media/img-1.jpg": "/work/static/media/img-1.73c3d4b15557be0f6bdb.jpg",
+    "static/media/img-2.jpg": "/work/static/media/img-2.6c857c74ee100d242805.jpg",
+    "static/media/img-animated.jpg": "/work/static/media/img-animated.2fc34dc45d8b1846084e.jpg",
+    "static/media/img-john.png": "/work/static/media/img-john.a64bee280c1f3ef2c4f0.png",
+    "static/media/logo1-1.png": "/work/static/media/logo1-1.6287c8a0f7429f50a62d.png",
+    "static/media/bg-first-d.jpg": "/work/static/media/bg-first-d.1d57b20de942c284e40e.jpg",
+    "static/media/audience.jpg": "/work/static/media/audience.bc63ae5e233cbcbb8f94.jpg",
+    "static/media/Featured.png": "/work/static/media/Featured.a0e2ce1cedb9c333d9d0.png",
+    "static/media/logo3-3.jpg": "/work/static/media/logo3-3.cb987f0c76b04c591dde.jpg",
+    "static/media/instagram.png": "/work/static/media/instagram.6f7718f32219734b6638.png",
+    "static/media/star.png": "/work/static/media/star.2cac4d71f73f7ad3d4bc.png",
+    "static/media/logo.png": "/work/static/media/logo.cbe74b64532f6d056497.png",
+    "static/media/logo2-2.png": "/work/static/media/logo2-2.f8c23c634263beffda31.png",
+    "static/media/logo4-4.jpg": "/work/static/media/logo4-4.2b1085b94d389e600584.jpg",
+    "static/media/youtube.png": "/work/static/media/youtube.823714282cbada6be4ed.png",
+    "static/media/down-arrow.png": "/work/static/media/down-arrow.d69efa368f984c6ae2ec.png",
+    "static/media/drop-down.png": "/work/static/media/drop-down.4b959dd8552433d5614e.png",
+    "index.html": "/work/index.html",
+    "main.633d5913.css.map": "/work/static/css/main.633d5913.css.map",
+    "main.a98e82cd.js.map": "/work/static/js/main.a98e82cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.633d5913.css",
+    "static/js/main.a98e82cd.js"
+  ]
+}
