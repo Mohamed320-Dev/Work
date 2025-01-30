@@ -3,7 +3,7 @@
   margin-top: 370px;
   margin-left: -8px;
   width: 1349px;
-  height: 300px;
+  height: 1250px;
 }
 
 .p-title-about {
@@ -58,7 +58,7 @@
   width: 885px;
   margin-left: 250px;
   margin-top: -42px;
-  height: 101px;
+  /* height: 101px; */
   display: flex;
   align-items: center;
   transition: all 0.25s linear;
@@ -117,7 +117,7 @@
   width: 885px;
   margin-left: 250px;
   margin-top: -42px;
-  height: 101px;
+  /* height: 101px; */
   display: flex;
   align-items: center;
 }
@@ -173,7 +173,7 @@
   width: 885px;
   margin-left: 250px;
   margin-top: -42px;
-  height: 101px;
+  /* height: 101px; */
   display: flex;
   align-items: center;
 }
@@ -230,7 +230,7 @@
   width: 885px;
   margin-left: 250px;
   margin-top: -42px;
-  height: 101px;
+  /* height: 101px; */
   display: flex;
   align-items: center;
 }
@@ -279,7 +279,7 @@
   width: 885px;
   margin-left: 250px;
   margin-top: -42px;
-  height: 101px;
+  /* height: 101px; */
   display: flex;
   align-items: center;
 }
@@ -328,7 +328,7 @@
   width: 885px;
   margin-left: 250px;
   margin-top: -42px;
-  height: 101px;
+  /* height: 101px; */
   display: flex;
   align-items: center;
 }
@@ -542,7 +542,7 @@
 .d-line-scroll-about {
   background-color: #dee1e1;
   width: 4px;
-  height: 1134px;
+  height: 885px;
   position: absolute;
   margin-left: 212px;
 }

@@ -49,7 +49,7 @@ export default function LookInside() {
   return (
     <div className="d-look-insid-about">
       <div className="p-title-about">
-        <h2 className="title-shoose-about">TAKE A LOOK INSIDE</h2>
+        <h2 className="title-shoose-about">HERE'S WHAT YOU'LL GET</h2>
       </div>
       <div className="d-line-scroll-about"></div>
       <div className="d-cercle-1-about">
@@ -63,7 +63,9 @@ export default function LookInside() {
           }`}
         >
           {" "}
-          YOUR WHY IS YOUR SUPERPOWER
+          The Recharge Room Experience: A calming environment featuring sound
+          therapy lounges that promote relaxation, stress relief, and mental
+          clarity.
         </h2>
       </div>
       {/* // **** */}
@@ -78,7 +80,8 @@ export default function LookInside() {
           }`}
         >
           {" "}
-          SHOW ME YOUR FRIENDS AND I’LL SHOW YOU YOUR FUTURE
+          Personalized Guidance: Tailored mindfulness and stress management
+          strategies from licensed therapist Mario Wilcox.
         </h2>
       </div>
       {/* // ******** */}
@@ -92,7 +95,8 @@ export default function LookInside() {
             isAnimated3 ? "animated-text3-about" : ""
           }`}
         >
-          YOUR SPORT IS WHAT YOU DO, NOT WHO YOU ARE
+          Take-Home Tools: Practical exercises, tips, and digital resources to
+          maintain balance and well-being beyond the session.
         </h2>
       </div>
       {/* // ******* */}
@@ -106,7 +110,8 @@ export default function LookInside() {
             isAnimated4 ? "animated-text4-about" : ""
           }`}
         >
-          DIFFICULT TIMES CAN DEVELOP, DEFEAT OR DEFINE YOU
+          Engaging Workshops: Sessions focused on stress management, building
+          resilience, and fostering long-term mental clarity.
         </h2>
       </div>
       {/* // ******** */}
@@ -116,7 +121,8 @@ export default function LookInside() {
       <div className="d-6-cercle5">
         <div className="d-c5-about"></div>
         <h2 className="text-5-cercle5-about">
-          LEGACY LEADERSHIP - YOU DON’T NEED A TITLE TO BE LEADER
+          Hassle-Free Setup: A fully equipped wellness experience brought
+          directly to your space, requiring no additional effort from your team.
         </h2>
       </div>
       {/* // ******** */}
@@ -126,41 +132,42 @@ export default function LookInside() {
       <div className="d-7-cercle6">
         <div className="d-c6-about"></div>
         <h2 className="text-6-cercle6-about">
-          HIGH VALUES LEAD TO HIGH PERFORMANCE
+          Lasting Impact: Participants leave feeling refreshed, recharged, and
+          empowered with tools for daily wellness.
         </h2>
       </div>
       {/* // ********* */}
-      <div className="d-cercle-7-about">
+      {/* <div className="d-cercle-7-about">
         <p className="p-number-7-about">7</p>
       </div>
       <div className="d-8-cercle7">
         <div className="d-c7-about"></div>
         <h2 className="text-7-cercle7-about">COMMUNICATION BRIDGES THE GAP</h2>
-      </div>
+      </div> */}
       {/* // ******* */}
-      <div className="d-cercle-8-about">
+      {/* <div className="d-cercle-8-about">
         <p className="p-number-8-about">8</p>
       </div>
       <div className="d-9-cercle8">
         <div className="d-c8-about"></div>
         <h2 className="text-8-cercle8-about"> YOU VS YOU</h2>
-      </div>
+      </div> */}
       {/* // ********** */}
-      <div className="d-cercle-9-about">
+      {/* <div className="d-cercle-9-about">
         <p className="p-number-9-about">9</p>
       </div>
       <div className="d-10-cercle9">
         <div className="d-c9-about"></div>
         <h2 className="text-9-cercle9-about"> THE P.A.T.H. TO CONFIDENCE</h2>
-      </div>
+      </div> */}
       {/* // ******** */}
-      <div className="d-cercle-10-about">
+      {/* <div className="d-cercle-10-about">
         <p className="p-number-10-about">10</p>
-      </div>
-      <div className="d-11-cercle10">
+      </div> */}
+      {/* <div className="d-11-cercle10">
         <div className="d-c10-about"></div>
         <h2 className="text-10-cercle10-about"> YOUR NAME, IMAGE & LIKENESS</h2>
-      </div>
+      </div> */}
     </div>
   );
 }

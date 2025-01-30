@@ -2,7 +2,7 @@
   margin-top: -40px;
   margin-left: -8px;
   width: 1349px;
-  height: 450px;
+  height: 320px;
 }
 
 .title-element {
@@ -14,146 +14,28 @@
 }
 
 .img-1-company {
-  width: 137px;
-  margin-left: 144px;
+  width: 250px;
+  margin-left: 155px;
+  margin-top: 54px;
 }
 
 .img-2-company {
   position: absolute;
-  width: 112px;
-  margin-left: 30px;
-  margin-top: -19px;
+  width: 220px;
+  margin-left: 78px;
+  margin-top: 33px;
 }
 
 .img-3-company {
   position: absolute;
-  width: 151px;
-  margin-left: 170px;
-  margin-top: -12px;
+  width: 250px;
+  margin-left: 345px;
+  margin-top: 31px;
 }
 
 .img-4-company {
   position: absolute;
-  width: 98px;
-  margin-left: 341px;
-  margin-top: -19px;
-}
-
-.img-5-company {
-  position: absolute;
-  width: 163px;
-  margin-left: 459px;
-  margin-top: 11px;
-}
-
-.img-6-company {
-  position: absolute;
-  width: 108px;
-  margin-left: 649px;
-  margin-top: -17px;
-}
-
-.img-7-company {
-  position: absolute;
-  width: 137px;
-  margin-left: 774px;
-  margin-top: -18px;
-}
-
-.img-8-company {
-  position: absolute;
-  width: 137px;
-  margin-top: 135px;
-  margin-left: -131px;
-}
-
-.img-9-company {
-  position: absolute;
-  width: 137px;
-  margin-top: 99px;
-  margin-left: 17px;
-}
-
-.img-11-company {
-  position: absolute;
-  width: 157px;
-  margin-left: 182px;
-  margin-top: 141px;
-}
-
-.img-12-company {
-  position: absolute;
-  width: 137px;
-  margin-top: 118px;
-  margin-left: 361px;
-}
-
-.img-13-company {
-  position: absolute;
-  width: 137px;
-  margin-top: 134px;
-  margin-left: 516px;
-}
-
-.img-14-company {
-  position: absolute;
-  width: 87px;
-  margin-top: 116px;
-  margin-left: 686px;
-}
-
-.img-15-company {
-  position: absolute;
-  width: 87px;
-  margin-top: 125px;
-  margin-left: 810px;
-}
-
-.img-16-company {
-  position: absolute;
-  width: 87px;
-  margin-top: 250px;
-  margin-left: -99px;
-}
-
-.img-17-company {
-  position: absolute;
-  width: 157px;
-  margin-top: 245px;
-  margin-left: 30px;
-}
-
-.img-18-company {
-  position: absolute;
-  width: 137px;
-  margin-top: 239px;
-  margin-left: 202px;
-}
-
-.img-19-company {
-  position: absolute;
-  width: 137px;
-  margin-top: 245px;
-  margin-left: 365px;
-}
-
-.img-20-company {
-  position: absolute;
-  width: 137px;
-  margin-top: 240px;
-  margin-left: 525px;
-}
-
-.img-21-company {
-  position: absolute;
-  width: 137px;
-  margin-top: 235px;
-  margin-left: 678px;
-}
-
-.img-22-company {
-  position: absolute;
-  width: 137px;
-  margin-top: 248px;
-  margin-left: 819px;
+  width: 135px;
+  margin-left: 622px;
+  margin-top: 33px;
 }

@@ -10,14 +10,14 @@ export default function Fourth() {
     <div className="d-fourth-part">
       {/* <div className="seond-d"> */}
       <p className="element-text"> KEYNOTES - VIRTUAL - WORKSHOPS</p>
-      <h2 className="h2-text">JEREMIAH WANTS TO HELP YOU SOLVE</h2>
+      <h2 className="h2-text">MARIO WANTS TO SOLVE</h2>
       <ul className="ul-content-fourth">
         <li>
           <span>
             <img src={check} alt="" className="icon-checked-1" />
           </span>
           <span className="text-icon-1">
-            Mental health issues affected by team culture
+            The growing issue of workplace stress and burnout.
           </span>
         </li>
         <li>
@@ -25,7 +25,7 @@ export default function Fourth() {
             <img src={check} alt="" className="icon-checked-2" />
           </span>
           <span className="text-icon-2">
-            Low retention in staff, students and employees
+            The lack of practical tools for managing everyday anxiety.
           </span>
         </li>
 
@@ -33,14 +33,18 @@ export default function Fourth() {
           <span>
             <img src={check} alt="" className="icon-checked-3" />
           </span>
-          <span className="text-icon-3">Lack of servant leadership</span>
+          <span className="text-icon-3">
+            the chanllenge of maintaining focus and mental clarity in
+            high-pressure environments.
+          </span>
         </li>
         <li>
           <span>
             <img src={check} alt="" className="icon-checked-4" />
           </span>
           <span className="text-icon-4">
-            Lack of transition support for students and athletes
+            Limited access to mindfulness techniques and stress relief
+            practices.
           </span>
         </li>
 
@@ -49,7 +53,18 @@ export default function Fourth() {
             <img src={check} alt="" className="icon-checked-5" />
           </span>
           <span className="text-icon-5">
-            Lack of Player and personal development
+            The need for sustainable, simple welness habits that fit into busy
+            schedules.
+          </span>
+        </li>
+
+        <li>
+          <span>
+            <img src={check} alt="" className="icon-checked-6" />
+          </span>
+          <span className="text-icon-6">
+            The stigma surrounding mental health and seeking support in
+            proffessional spaces.
           </span>
         </li>
       </ul>
@@ -65,19 +80,19 @@ export default function Fourth() {
         <li>
           <a href="#">
             <span className="text1-img">CAREER & LIFE SKILLS </span>
-            <span>
+            {/* <span>
               <img src={arrow} alt="" className="arrow-icon-1" />
-            </span>
+            </span> */}
           </a>
         </li>
       </ul>
       <ul className="ul-img-content">
         <li>
           <a href="#">
-            <span className="text2-img">DEVELOPING LEADERS</span>
-            <span>
+            <span className="text2-img">DEVELOPING POSITIVE MINDSETS</span>
+            {/* <span>
               <img src={arrow} alt="" className="arrow-icon-2" />
-            </span>
+            </span> */}
           </a>
         </li>
       </ul>

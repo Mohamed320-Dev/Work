@@ -18,15 +18,15 @@ export default function ThirdPart() {
       <img src={star} alt="" className="icon-star4" />
       <img src={star} alt="" className="icon-star5" />
       <p className="text-c">
-        "Jeremiah Brown is an incredible speaker and having him speak to <br />
-        my undergraduate and graduate students here at Clemson{" "}
-        <strong>
-          has been <br />a game changer.
-        </strong>{" "}
-        His story and presentation skills had each of my <br />
-        students at the edge of their seats wanting more and more. Excited{" "}
+        "Our team was amazed! In just 15 minutes, everyone felt calmer, more{" "}
         <br />
-        to bring Jeremiah and his team at Lead back to Clemson University."
+        focused, and ready to tackle the day. Mario’s guidance was the perfect{" "}
+        <br />
+        blend of practical and inspiring – this was truly a game-changer for our{" "}
+        <br />
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp; workplace." <br />
       </p>
       <p className="text-name">RICHARD YEARGIN</p>
       <p className="text-work">Professor at Clemson University</p>

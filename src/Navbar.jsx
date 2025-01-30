@@ -19,7 +19,12 @@ export default function Navbar() {
 
   // Change text every 3 seconds
   useEffect(() => {
-    const texts = ["MENTAL HEALTH", "CAREER & LIFE SKILLS", "LEADERSHIP"];
+    const texts = [
+      "SELF MANAGEMENT",
+      "ENHANCING MENTAL HEALTH",
+      "STRESS RELIEF TIP",
+      "TRICKS",
+    ];
 
     let index = 0;
     const interval = setInterval(() => {
@@ -126,8 +131,9 @@ export default function Navbar() {
 
       <div className="body-content">
         <h1 className="first-text-body">
-          FORMER NFL ARHLETE <br />& TRANSFORMATIONAL <br />
-          SPEAKER ON <span className={`change-text ${animation}`}>{text}</span>
+          LICENSED THERAPIST AND TRANSFORMATIONAL <br />
+          SPEAKER ON
+          <span className={`change-text ${animation}`}> {text}</span>
         </h1>
         <button className="btn-1">SEE JEREMIAH IN ACTION</button>
         <button className="btn-2">SPEAKING PROGRAMS</button>

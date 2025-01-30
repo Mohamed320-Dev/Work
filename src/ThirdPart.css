@@ -42,16 +42,16 @@
 
 .personne-img {
   position: absolute;
-  width: 396px;
+  width: 445px;
   height: 620px;
-  margin-top: -40px;
-  margin-left: 100px;
+  margin-top: -41px;
+  margin-left: -21px;
 }
 
 .text-c {
   position: absolute;
   margin-top: 184px;
-  margin-left: 618px;
+  margin-left: 520px;
   font-size: 24px;
   font-family: "Oswald", Sans-serif;
   line-height: 36px;
@@ -61,35 +61,35 @@
   position: absolute;
   width: 30px;
   margin-top: 140px;
-  margin-left: 945px;
+  margin-left: 855px;
 }
 
 .icon-star2 {
   position: absolute;
   width: 30px;
   margin-top: 140px;
-  margin-left: 917px;
+  margin-left: 827px;
 }
 
 .icon-star3 {
   position: absolute;
   width: 30px;
   margin-top: 140px;
-  margin-left: 889px;
+  margin-left: 799px;
 }
 
 .icon-star4 {
   position: absolute;
   width: 30px;
   margin-top: 140px;
-  margin-left: 861px;
+  margin-left: 771px;
 }
 
 .icon-star5 {
   position: absolute;
   width: 30px;
   margin-top: 140px;
-  margin-left: 833px;
+  margin-left: 743px;
 }
 
 .text-name {
@@ -98,21 +98,21 @@
   text-transform: uppercase;
   letter-spacing: 1.9px;
   position: absolute;
-  margin-top: 375px;
-  margin-left: 825px;
+  margin-top: 350px;
+  margin-left: 745px;
 }
 
 .text-work {
   font-family: "Oswald", Sans-serif;
   position: absolute;
-  margin-top: 395px;
-  margin-left: 830px;
+  margin-top: 370px;
+  margin-left: 750px;
   font-size: 11.9px;
   color: #0d0d0d;
 }
 
 .logo-small {
-  margin-top: 445px;
-  margin-left: 825px;
+  margin-top: 405px;
+  margin-left: 745px;
   width: 150px;
 }

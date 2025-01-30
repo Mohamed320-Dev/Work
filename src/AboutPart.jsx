@@ -16,31 +16,16 @@ export default function AboutPart() {
   // }, []);
 
   return (
-    <div>
-      <h2 className="name-of-personne">MEET JEREMIAH</h2>
+    <div className="d-about-part">
+      <h2 className="name-of-personne">MEET MARIO</h2>
       <p className="p-1-personne">
-        As a dynamic professional speaker, Jeremiah <br />
-        is dedicated to empowering individuals to <br />
-        unlock their full potential, cultivate positive <br />
-        team cultures, and embrace servant <br />
-        leadership principles.
+        Licensed Therapist | Mindfulness Advocate Mario <br />
+        Wilcox is a licensed therapist passionate about <br />
+        teaching the power of mindfulness. His goal is to <br />
+        equip individuals with tools to manage stress, <br />
+        improve focus, and find balance in their lives.
       </p>
-      <p className="p-2-personne">
-        With a diverse background as a former NFL <br />
-        athlete, director of athletics, and school <br />
-        leader, Jeremiah connects with audiences <br />
-        ranging from K-12 educators to corporate <br />
-        teams. Through his captivating presentations, <br />
-        he ignites purpose, resilience, and <br />
-        determination, encouraging listeners to <br />
-        overcome challenges and achieve their goals. <br />
-        Jeremiah’s speaking engagements leave a <br />
-        lasting impact, and he has also authored an <br />
-        empowering book as a valuable resource. <br />
-        Join Jeremiah on a transformative journey to <br />
-        unleash greatness and make a lasting impact.
-      </p>
-      <button className="b-about-personne">MORE ABOUT JEREMIAH</button>
+      <button className="b-about-personne">MORE ABOUT MARIO</button>
       <img src={slide} alt="Jeremiah Slide" className="slide-1-personne" />
     </div>
   );

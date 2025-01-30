@@ -8,15 +8,18 @@ export default function ThirdPartAbout() {
       <h2 className="title-text-about">WHAT YOU WILL LEARN</h2>
       <img src={img_personnes} alt="" className="img-personnes-about" />
       <p className="text-body-about">
-        In <i>Lead Like A Champion,</i> former NFL player, Jeremiah Brown,{" "}
+        <strong>What you'll Learn: </strong>
         <br />
-        draws on his athletic experience and more than 10 years of <br />
-        serving in the NYC school system to explore the foundational <br />
-        principles every student-athlete needs to succeed during their <br />
-        playing career and in life after sports. Brown expounds on the <br />
-        most common issues student-athletes face and provides <br />
-        practical steps and strategies they can implement to reach <br />
-        their full potential.
+        you'll gain practical, evidence-based tools to manage stress, enhance{" "}
+        <br />
+        focus, and find balance. Discover mindfulness techniques to improve{" "}
+        <br />
+        mental clarity, sound therapy tp reset your nervous system, and <br />
+        personalized strategies tailored to your unique needs. Walk away with{" "}
+        <br />
+        sustainable habits and simple practices to cultivate resilience and{" "}
+        <br />
+        maintain well-being in your daily life.
       </p>
     </div>
   );

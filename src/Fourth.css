@@ -21,7 +21,7 @@
   position: absolute;
   font-size: 46px;
   font-family: "Oswald", sans-serif;
-  margin-left: 332px;
+  margin-left: 460px;
   margin-top: 115px;
   color: #00b4ff;
 }
@@ -38,7 +38,7 @@
 .icon-checked-1 {
   width: 30px;
   margin-top: 185px;
-  margin-left: 385px;
+  margin-left: 350px;
 }
 
 .text-icon-1 {
@@ -46,7 +46,7 @@
   font-size: 18px;
   font-family: "Open sans", sans-serif;
   margin-left: 11px;
-  width: 408px;
+  width: 450px;
   margin-top: 186px;
   color: #0d0d0d;
 }
@@ -62,7 +62,7 @@
   font-size: 18px;
   font-family: "Open sans", sans-serif;
   margin-left: 11px;
-  width: 429px;
+  width: 487px;
   margin-top: 235px;
   color: #0d0d0d;
 }
@@ -78,7 +78,7 @@
   font-size: 18px;
   font-family: "Open sans", sans-serif;
   margin-left: 11px;
-  width: 429px;
+  width: 732px;
   margin-top: 284px;
   color: #0d0d0d;
 }
@@ -94,8 +94,8 @@
   font-size: 18px;
   font-family: "Open sans", sans-serif;
   margin-left: 11px;
-  width: 457px;
-  margin-top: 333px;
+  width: 579px;
+  margin-top: 335px;
   color: #0d0d0d;
 }
 
@@ -110,8 +110,24 @@
   font-size: 18px;
   font-family: "Open sans", sans-serif;
   margin-left: 11px;
-  width: 485px;
-  margin-top: 382px;
+  width: 644px;
+  margin-top: 387px;
+  color: #0d0d0d;
+}
+
+.icon-checked-6 {
+  width: 30px;
+  margin-top: 431px;
+  margin-left: -32px;
+}
+
+.text-icon-6 {
+  position: absolute;
+  font-size: 18px;
+  font-family: "Open sans", sans-serif;
+  margin-left: 11px;
+  width: 710px;
+  margin-top: 432px;
   color: #0d0d0d;
 }
 
@@ -126,7 +142,7 @@
 .element-opacity-1 {
   margin-left: 110px;
   background: linear-gradient(180deg, #0d0d0d00 30%, #0d0d0d 100%);
-  height: 159px;
+  height: 144px;
   width: 560px;
   top: 0;
   left: 0;
@@ -145,7 +161,7 @@
 .element-opacity-2 {
   margin-left: 693px;
   background: linear-gradient(180deg, #0d0d0d00 30%, #0d0d0d 100%);
-  height: 159px;
+  height: 144px;
   width: 560px;
   top: 0;
   left: 0;
@@ -157,9 +173,9 @@
   color: white;
   position: absolute;
   margin-top: 844px;
-  margin-left: 117px;
+  margin-left: 180px;
   width: 410px;
-  font-size: 44px;
+  font-size: 35px;
   font-family: "Oswald", sans-serif;
   font-weight: 600;
 }
@@ -175,9 +191,9 @@
   color: white;
   position: absolute;
   margin-top: 844px;
-  margin-left: 704px;
-  width: 410px;
-  font-size: 44px;
+  margin-left: 703px;
+  width: 628px;
+  font-size: 35px;
   font-family: "Oswald", sans-serif;
   font-weight: 600;
 }

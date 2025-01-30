@@ -17,6 +17,9 @@ import ThirdPartAbout from "./The Book/ThirdPartAbout";
 import FourthPartAbout from "./The Book/FourthPartAbout";
 import DescriptionAbout from "./The Book/DescriptionAbout";
 import LookInside from "./The Book/LookInside";
+import ElementSectionAbout from "./The Book/ElementSectionAbout";
+import FromAuthorAbout from "./The Book/FromAuthorAbout";
+import PurshageSectionAbout from "./The Book/PurshageSectionAbout";
 
 export default function App() {
   return (
@@ -33,7 +36,7 @@ export default function App() {
               <Fourth />
               <Company />
               <Section />
-              <BookPart />
+              {/* <BookPart /> */}
               <AboutPart />
               <BelievePart />
               <FooterPart />
@@ -51,6 +54,10 @@ export default function App() {
               <FourthPartAbout />
               <DescriptionAbout />
               <LookInside />
+              <ElementSectionAbout />
+              <FromAuthorAbout />
+              <PurshageSectionAbout />
+              <EndPart />
             </>
           }
         />

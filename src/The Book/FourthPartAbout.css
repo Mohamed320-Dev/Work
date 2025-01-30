@@ -36,21 +36,21 @@
   font-size: 46px;
   font-family: "Oswald", sans-serif;
   color: #00b4ff;
-  margin-left: 348px;
-  margin-top: 87px;
+  margin-left: 525px;
+  margin-top: 51px;
 }
 
 .icon-checked-about-1 {
   width: 30px;
-  margin-top: 190px;
-  margin-left: 384px;
+  margin-top: 170px;
+  margin-left: 240px;
   position: absolute;
 }
 
 .t-ch-about-1 {
   position: absolute;
-  margin-left: 430px;
-  margin-top: 190px;
+  margin-left: 286px;
+  margin-top: 163px;
   font-size: 18px;
   font-family: "Open sans", sans-serif;
   font-weight: 400;
@@ -58,15 +58,15 @@
 
 .icon-checked-about-2 {
   width: 30px;
-  margin-top: 255px;
-  margin-left: 384px;
+  margin-top: 235px;
+  margin-left: 240px;
   position: absolute;
 }
 
 .t-ch-about-2 {
   position: absolute;
-  margin-left: 430px;
-  margin-top: 247px;
+  margin-left: 286px;
+  margin-top: 227px;
   font-size: 18px;
   font-family: "Open sans", sans-serif;
   font-weight: 400;
@@ -74,15 +74,47 @@
 
 .icon-checked-about-3 {
   width: 30px;
-  margin-top: 320px;
-  margin-left: 384px;
+  margin-top: 300px;
+  margin-left: 240px;
   position: absolute;
 }
 
 .t-ch-about-3 {
   position: absolute;
-  margin-left: 430px;
-  margin-top: 312px;
+  margin-left: 286px;
+  margin-top: 298px;
+  font-size: 18px;
+  font-family: "Open sans", sans-serif;
+  font-weight: 400;
+}
+
+.icon-checked-about-4 {
+  width: 30px;
+  margin-top: 365px;
+  margin-left: 240px;
+  position: absolute;
+}
+
+.t-ch-about-4 {
+  position: absolute;
+  margin-left: 286px;
+  margin-top: 356px;
+  font-size: 18px;
+  font-family: "Open sans", sans-serif;
+  font-weight: 400;
+}
+
+.icon-checked-about-5 {
+  width: 30px;
+  margin-top: 430px;
+  margin-left: 240px;
+  position: absolute;
+}
+
+.t-ch-about-5 {
+  position: absolute;
+  margin-left: 286px;
+  margin-top: 430px;
   font-size: 18px;
   font-family: "Open sans", sans-serif;
   font-weight: 400;
